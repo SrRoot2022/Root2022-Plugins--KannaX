@@ -198,16 +198,16 @@ async def handle_afk_outgoing(message: Message) -> None:
     await asyncio.gather(*coro_list)
 
 AFK_SLEEPING = [
-    "https://telegra.ph/file/ef265a6287049e9bf6824.gif",
-    "https://telegra.ph/file/5d60fe4c8750dabb9eb3e.gif",
-    "https://telegra.ph/file/64bbf555fe9cf1c94b46d.gif",
-    "https://telegra.ph/file/d15a273f85da98cd3e074.gif",
-    "https://telegra.ph/file/b80236c923f175916caf9.gif",
-    "https://telegra.ph/file/b480496461fbff8b59b11.gif",
-    "https://telegra.ph/file/b71b6ef1ced2a6f84aead.gif",
-    "https://telegra.ph/file/68c4d082e5ff249d635a4.gif",
-    "https://telegra.ph/file/a7fd2e42e75057fffc832.gif",
-    "https://telegra.ph/file/dc6b598978fc7fcabe609.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
+    "https://telegra.ph/file/7313a73688650088e9fd5.gif",
 ]
 
 GOING_SLEEP = [
